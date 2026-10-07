@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi there, I'm Michael 👋
 
-<!--
-**mikeautomatelab-cmd/mikeautomatelab-cmd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🤖 AI Automation & Workflow Specialist
+I design and deploy end-to-end automations, AI voice agents, and custom backend integration pipelines.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧰 Tech Stack & Tools
+- **Automation & Orchestration:** Make.com, Retell AI, Webhooks, REST APIs
+- **Languages & Frameworks:** Python, JSON
+- **Integrations:** CRM Platforms, Google Workspace, Custom API Endpoints
+
+---
+
+### 💼 Portfolio & Links
+- 🌐 [Upwork Profile](https://www.upwork.com/freelancers/~0157cd596ed8f77f0f)
+- ✉️ Contact: mikeautomatelab@gmail.com
+- 
